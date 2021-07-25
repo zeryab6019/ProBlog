@@ -1,0 +1,17 @@
+.techfont{
+  font-family: 'Russo One', sans-serif;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+.bigbrand{
+  font-size: 1.5em;
+}
+
+.postdate{
+  text-align: center;
+}
+
+.centerstage{
+  margin-left: auto;
+  margin-right: auto;
+}
